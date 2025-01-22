@@ -16,4 +16,4 @@ You need to clone the repository from github and navigate into the required dire
 
 ## Contributors
 
-**Author**: (Antony)[https://github.com/oduortoni]
+**Author**: [Antony](https://github.com/oduortoni)
